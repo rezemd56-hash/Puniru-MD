@@ -1,0 +1,42 @@
+{
+  "users": {
+    "95872947880006@s.whatsapp.net": {
+      "personajes": [],
+      "dinero": 1000,
+      "ultimo": {
+        "nombre": "Seven",
+        "edad": 21,
+        "genero": "Hombre",
+        "rol": "Asesino",
+        "precio": 300,
+        "img": "https://i.ibb.co/6JGt0dQX/Seven.jpg",
+        "descripcion": "Un asesino silencioso, rápido y letal."
+      }
+    },
+    "6287774831869@s.whatsapp.net": {
+      "personajes": [],
+      "dinero": 1300,
+      "ultimo": {
+        "nombre": "Akira",
+        "edad": 19,
+        "genero": "Mujer",
+        "rol": "Francotiradora",
+        "precio": 350,
+        "img": "https://i.imgur.com/0Z8FQkT.jpeg",
+        "descripcion": "Nunca falla un disparo."
+      }
+    }
+  },
+  "market": [
+    {
+      "nombre": "Seven",
+      "edad": 21,
+      "genero": "Hombre",
+      "rol": "Asesino",
+      "precio": 300,
+      "img": "https://i.ibb.co/6JGt0dQX/Seven.jpg",
+      "descripcion": "Un asesino silencioso, rápido y letal.",
+      "owner": "6287774831869@s.whatsapp.net"
+    }
+  ]
+}
